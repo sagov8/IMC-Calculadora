@@ -26,12 +26,12 @@
 }
 
 input[type=range]::-webkit-slider-thumb{
-    background-color: #FF3366;
+    background-color: #465775;
 }
 
 .sumaResta {
     cursor: pointer;
-    background-color: #EF6F6C;
+    background-color: #465775;
     padding: 7px;
     border-radius: 15px;
     margin-left: 5px;
